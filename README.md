@@ -6,14 +6,14 @@ This repository showcases a Flutter UI for a combined ticket and hotel booking a
 
  Features
 
-*   Integrated Ticket & Hotel Booking:** Combines event ticketing and hotel reservation functionalities in a single app.
-*   Event Browsing:** Browse available events with details like date, time, location, and descriptions.
-*   Seat Selection:** Interactive seat selection for events with visual seat maps (if applicable).
-*   Hotel Search & Booking:** Search for hotels by location, dates, and number of guests. View hotel details, amenities, and photos.
-*   Booking Management:** View booking history, manage upcoming reservations, and potentially cancel bookings (depending on implemented functionality).
-*   API Integration:** Uses API models for efficient data handling and communication with backend services.
-*   State Management with GetX:** Implements GetX for simplified state management, navigation, and dependency injection.
-*   Clean and Modern UI:** A visually appealing and intuitive user interface designed for optimal user experience.
+*   Integrated Ticket & Hotel Booking: Combines event ticketing and hotel reservation functionalities in a single app.
+*   Event Browsing: Browse available events with details like date, time, location, and descriptions.
+*   Seat Selection:Interactive seat selection for events with visual seat maps (if applicable).
+*   Hotel Search & Booking: Search for hotels by location, dates, and number of guests. View hotel details, amenities, and photos.
+*   Booking Management:View booking history, manage upcoming reservations, and potentially cancel bookings (depending on implemented functionality).
+*   API Integration: Uses API models for efficient data handling and communication with backend services.
+*   State Management with GetX: Implements GetX for simplified state management, navigation, and dependency injection.
+*   Clean and Modern UI: A visually appealing and intuitive user interface designed for optimal user experience.
 
 
 Screenshots
