@@ -47,20 +47,11 @@ Technologies Used
     flutter pub get
     ```
 
-4.  Set up API keys/endpoints (if necessary):
 
+4
+. Connect a device or start an emulator:
 
-    *   Create a `.env` file in the root of the project.
-    *   Add your API keys to the `.env` file:
-
-        ```
-        API_KEY=your_actual_api_key
-        BASE_URL=your_api_base_url
-        ```
-
-5. Connect a device or start an emulator:
-
-6.  Run the app:
+5.  Run the app:
 
     ```bash
     flutter run
